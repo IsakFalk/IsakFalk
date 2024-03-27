@@ -17,3 +17,11 @@ I'm a researcher and doctor in machine learning, with a focus on meta/transfer l
 - [Orcid](https://orcid.org/0000-0002-6616-0045)
 - [Website](https://isakfalk.com/)
 - [gscholar](https://scholar.google.com/citations?user=UbC3eScAAAAJ)
+
+#### Stats
+<a href="https://github.com/IsakFalk/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IsakFalk" />
+</a>
+<a href="https://github.com/IsakFalk/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsakFalk&layout=compact&langs_count=8&card_width=320" />
+</a>
